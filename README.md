@@ -1,5 +1,4 @@
 ## Hi there 👋
-![ilanabitbol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilanabitbol&theme=vue-dark&hide_border=true)
 <!--
 **ilanabitbol/ilanabitbol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
